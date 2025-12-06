@@ -1,0 +1,12 @@
+python-dotenv
+razorpay
+flask
+requests
+crewai
+crewai.tools
+selenium
+webdriver-manager
+pyperclip
+fuzzywuzzy
+python-Levenshtein
+reportlab
